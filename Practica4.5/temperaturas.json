@@ -1,0 +1,16 @@
+{
+"temperaturas": [
+{"mes": "Enero", "minima": 5, "maxima": 18},
+{"mes": "Febrero", "minima": 6, "maxima": 20},
+{"mes": "Marzo", "minima": 8, "maxima": 23},
+{"mes": "Abril", "minima": 10, "maxima": 26},
+{"mes": "Mayo", "minima": 13, "maxima": 30},
+{"mes": "Junio", "minima": 16, "maxima": 33},
+{"mes": "Julio", "minima": 17, "maxima": 34},
+{"mes": "Agosto", "minima": 17, "maxima": 33},
+{"mes": "Septiembre", "minima": 15, "maxima": 31},
+{"mes": "Octubre", "minima": 12, "maxima": 27},
+{"mes": "Noviembre", "minima": 8, "maxima": 22},
+{"mes": "Diciembre", "minima": 6, "maxima": 19}
+]
+}

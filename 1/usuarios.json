@@ -1,0 +1,26 @@
+[
+    {
+        "id_tarjeta": "1010",
+        "nombre_empleado": "Juan Pérez",
+        "departamento": "Sistemas",
+        "nivel_seguridad": 3
+    },
+    {
+        "id_tarjeta": "2020",
+        "nombre_empleado": "Ana García",
+        "departamento": "Producción",
+        "nivel_seguridad": 1
+    },
+    {
+        "id_tarjeta": "0432",
+        "nombre_empleado": "Ximena Lopez",
+        "departamento": "Sistemas",
+        "nivel_seguridad": 2
+    },
+    {
+        "id_tarjeta": "0291",
+        "nombre_empleado": "Valeria Vargas",
+        "departamento": "Producción",
+        "nivel_seguridad": 3
+    }
+]

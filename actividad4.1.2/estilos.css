@@ -1,0 +1,46 @@
+/* css/estilos.css */
+
+/* Título con estilo exacto solicitado */
+.titulo {
+    text-align: center;
+    background-color: floralwhite; /* Color crema solicitado */
+    color: darkslategrey;        /* Color gris oscuro solicitado */
+    border-style: solid;
+    border-width: 1px;
+    border-color: grey;
+    margin-top: 3px;
+    padding: 3px;
+}
+
+/* Estilo de la tabla dinámica */
+.tabla-dinamica {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+/* Encabezado: Color café terroso (Sienna), no naranja */
+.tabla-dinamica thead {
+    background-color: #A0522D !important; /* Color marrón terroso */
+    color: white;
+}
+
+/* Cuerpo: Fondo crema muy suave */
+.tabla-dinamica tbody {
+    background-color: #F9F3EE; 
+}
+
+/* Bordes y alineación */
+.tabla-dinamica th, .tabla-dinamica td {
+    border: 1px solid #d3d3d3; /* Borde gris suave */
+    padding: 8px;
+    text-align: center;
+}
+
+/* Estilo para el caption (nota al pie) */
+caption {
+    caption-side: bottom;
+    text-align: left;
+    font-style: italic;
+    color: #555;
+    margin-top: 5px;
+}

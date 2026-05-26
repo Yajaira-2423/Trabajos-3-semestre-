@@ -1,0 +1,68 @@
+[2026-04-14 18:37:44] ACCESO CONCEDIDO - Usuario: Ana García
+[2026-04-14 18:38:32] ALERTA - Intento de acceso no autorizado - ID: 1111
+[2026-04-15 02:45:24] ALERTA: Intento fallido con ID: 2020
+[2026-04-15 02:49:33] ACCESO CONCEDIDO:  - Planta Química
+[2026-04-15 02:49:40] ACCESO CONCEDIDO:  - Planta Química
+[2026-04-15 02:49:45] ACCESO CONCEDIDO:  - Planta Química
+[2026-04-15 02:53:31] ACCESO CONCEDIDO: 
+[2026-04-15 02:58:37] ACCESO CONCEDIDO: Valeria Vargas (Producción)
+[2026-04-15 03:04:46] ACCESO CONCEDIDO: Ximena Lopez (Sistemas)
+[2026-04-15 03:05:20] ACCESO CONCEDIDO: Valeria Vargas (Producción)
+[2026-04-15 03:07:06] ACCESO CONCEDIDO: Juan Pérez (Sistemas)
+[2026-04-15 03:10:33] ACCESO CONCEDIDO: Valeria Vargas (Producción)
+[2026-04-15 03:10:46] ACCESO CONCEDIDO: Ana García (Producción)
+[2026-04-15 03:11:51] ALERTA: Intento fallido con ID: 1111
+[2026-04-15 03:12:30] ACCESO CONCEDIDO: Valeria Vargas (Producción)
+[2026-04-15 03:16:37] ACCESO CONCEDIDO: Ana García (Producción)
+[2026-04-15 03:17:53] ACCESO CONCEDIDO: Ximena Lopez (Sistemas)
+[2026-04-15 03:23:33] ACCESO CONCEDIDO: Valeria Vargas (Producción)
+[2026-04-15 03:36:54] ACCESO CONCEDIDO: Ximena Lopez (Sistemas)
+[2026-04-15 03:37:47] ACCESO CONCEDIDO: Juan Pérez (Sistemas)
+[2026-04-15 03:38:25] ACCESO CONCEDIDO: Ana García (Producción)
+[2026-04-15 03:38:57] ALERTA: Intento fallido con ID: 1111
+[2026-04-15 15:20:15] ACCESO CONCEDIDO: Ana García (Producción)
+[2026-04-15 15:20:25] ACCESO CONCEDIDO: Ximena Lopez (Sistemas)
+[2026-04-15 15:20:34] ACCESO CONCEDIDO: Valeria Vargas (Producción)
+[2026-04-15 15:21:13] ALERTA: Intento fallido con ID: 1111
+[2026-04-17 16:25:44] ALERTA: Intento fallido con ID: 1111
+[2026-04-17 16:26:00] ACCESO CONCEDIDO: Valeria Vargas (Producción)
+[2026-04-17 16:26:13] ACCESO CONCEDIDO: Ximena Lopez (Sistemas)
+[2026-04-17 16:26:25] ACCESO CONCEDIDO: Ana García (Producción)
+[2026-04-17 16:29:41] ALERTA: Intento fallido con ID: 1111
+[2026-04-19 18:50:59] ACCESO CONCEDIDO: Ana García (Producción)
+[2026-04-19 18:56:16] ACCESO CONCEDIDO: Valeria Vargas (Producción)
+[2026-04-19 18:56:31] ACCESO CONCEDIDO: Ximena Lopez (Sistemas)
+[2026-04-19 18:56:38] ACCESO CONCEDIDO: Valeria Vargas (Producción)
+[2026-04-19 18:58:36] ACCESO CONCEDIDO: Ana García (Producción)
+[2026-04-19 19:00:03] ACCESO CONCEDIDO: Ana García (Producción)
+[2026-04-19 19:00:54] ACCESO CONCEDIDO: Ximena Lopez (Sistemas)
+[2026-04-19 19:01:01] ACCESO CONCEDIDO: Valeria Vargas (Producción)
+[2026-04-19 19:05:54] ACCESO CONCEDIDO: Valeria Vargas (Producción)
+[2026-04-19 19:06:01] ACCESO CONCEDIDO: Ana García (Producción)
+[2026-04-19 19:13:41] ACCESO CONCEDIDO: Valeria Vargas (Producción)
+[2026-04-19 19:16:59] ACCESO CONCEDIDO: Valeria Vargas (Producción)
+[2026-04-19 19:18:07] ACCESO CONCEDIDO: Valeria Vargas (Producción)
+[2026-04-19 19:26:34] ACCESO CONCEDIDO: Ana García (Producción)
+[2026-04-19 19:48:39] ACCESO CONCEDIDO: Ana García (Producción)
+[2026-04-19 19:49:11] ACCESO CONCEDIDO: Ximena Lopez (Sistemas)
+[2026-04-19 19:49:50] ACCESO CONCEDIDO: Valeria Vargas (Producción)
+[2026-04-19 19:58:22] ACCESO CONCEDIDO: Ana García (Producción)
+[2026-04-19 19:58:40] ACCESO CONCEDIDO: Ximena Lopez (Sistemas)
+[2026-04-19 19:58:48] ACCESO CONCEDIDO: Valeria Vargas (Producción)
+[2026-04-19 19:59:04] ALERTA: Intento fallido con ID: 0000
+[2026-04-20 15:07:58] ACCESO CONCEDIDO: Valeria Vargas (Producción)
+[2026-04-20 15:34:17] ALERTA: Intento fallido con ID: 0000
+[2026-04-20 17:22:42] ACCESO CONCEDIDO: Ana García (Producción)
+[2026-04-20 17:24:06] ACCESO CONCEDIDO: Valeria Vargas (Producción)
+[2026-04-20 17:25:59] ACCESO CONCEDIDO: Ana García (Producción)
+[2026-04-20 17:26:07] ACCESO CONCEDIDO: Ximena Lopez (Sistemas)
+[2026-04-20 17:26:16] ACCESO CONCEDIDO: Valeria Vargas (Producción)
+[2026-04-20 19:48:28] ALERTA: Intento fallido con ID: 1111
+[2026-04-20 19:48:36] ACCESO CONCEDIDO: Ana García (Producción)
+[2026-04-20 19:48:57] ACCESO CONCEDIDO: Ana García (Producción)
+[2026-04-20 19:49:06] ACCESO CONCEDIDO: Ximena Lopez (Sistemas)
+[2026-04-20 19:49:17] ACCESO CONCEDIDO: Valeria Vargas (Producción)
+[2026-04-21 19:31:51] ALERTA: Intento fallido con ID: 1111
+[2026-04-21 19:31:55] ACCESO CONCEDIDO: Ana García (Producción)
+[2026-04-21 19:32:04] ACCESO CONCEDIDO: Ximena Lopez (Sistemas)
+[2026-04-21 19:32:15] ACCESO CONCEDIDO: Valeria Vargas (Producción)

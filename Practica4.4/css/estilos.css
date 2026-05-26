@@ -1,0 +1,39 @@
+/* Color para la Serie A (Máximas) - Ahora es una línea */
+.ct-series-a .ct-line, .ct-series-a .ct-point {
+    stroke: #ff5722; /* Naranja rojizo */
+    stroke-width: 4px; /* Grosor de la línea */
+}
+
+/* Color para la Serie B (Mínimas) */
+.ct-series-b .ct-line, .ct-series-b .ct-point {
+    stroke: #0277bd; /* Azul fuerte */
+    stroke-width: 4px;
+}
+
+/* Actualizamos los cuadritos de la leyenda para que coincidan */
+.max {
+    background-color: #ff5722;
+}
+
+.min {
+    background-color: #0277bd;
+}
+
+/* Estilos generales que ya tenías */
+.temp-box { width: 50px; height: 20px; border-radius: 3px; }
+.temp { display: inline-flex; align-items: center; margin-right: 20px; }
+.subt { display: block; color: blueviolet; font-size: large; margin-top: 10px; }
+.centro { text-align: center; margin-bottom: 20px; }
+
+/* Color y tamaño de los puntos de la serie */
+.ct-series-a .ct-point {
+    stroke: #D17905; /* Un color contrastante */
+    stroke-width: 10px; /* Tamaño del punto */
+    stroke-linecap: round;
+}
+
+/* Opcional: Color de la línea */
+.ct-series-a .ct-line {
+    stroke: #D17905;
+    stroke-width: 3px;
+}

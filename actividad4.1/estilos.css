@@ -1,0 +1,42 @@
+/* css/estilos.css */
+
+/* Estilo personalizado para la tabla del ejercicio */
+.table-homework thead {
+    background-color: #A0522D; /* Marrón oscuro (Sienna) */
+    color: white;
+    text-align: center;
+}
+
+.table-homework tbody {
+    background-color: #F5DCC8; /* Color durazno claro para las filas */
+}
+
+.table-homework th, .table-homework td {
+    border: 1px solid #D2691E !important; /* Bordes color marrón */
+    text-align: center; /* Alineación centrada para que luzca profesional */
+    padding: 12px !important;
+}
+
+/* Opcional: Para mantener el efecto hover de Bootstrap */
+.table-hover tbody tr:hover {
+    background-color: #e6c5ac; 
+}
+/* Estilo para el encabezado naranja del Ejercicio 2 */
+.sales-header {
+    background-color: #d98850; /* Tono naranja-marrón de la imagen */
+    color: white;
+    text-align: center;
+}
+
+/* Alineación centrada para el cuerpo de la tabla */
+.table-sales tbody td {
+    text-align: center;
+}
+
+/* Estilo para el caption (nota al pie) */
+caption {
+    font-size: 0.9em;
+    color: #555;
+    text-align: center;
+    caption-side: bottom;
+}

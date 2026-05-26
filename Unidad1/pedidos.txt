@@ -1,0 +1,2 @@
+101,Valeria,Laptop
+102,Valeria,Mouse

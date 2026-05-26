@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "producto": "Laptop Gamer",
+        "precio": 1500.0,
+        "categoria": "Hardware",
+        "stock": 5
+    },
+    {
+        "id": "2",
+        "producto": "Monitor 4K",
+        "precio": 400.0,
+        "categoria": "Perifericos",
+        "stock": 12
+    },
+    {
+        "id": "3",
+        "producto": "Teclado Mecanico",
+        "precio": 120.0,
+        "categoria": "Perifericos",
+        "stock": 25
+    }
+]

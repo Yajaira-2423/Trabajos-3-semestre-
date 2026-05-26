@@ -1,0 +1,110 @@
+[
+    {
+        "mes": "Enero",
+        "producto": "Laptop",
+        "cantidad": "12",
+        "precio_unitario": "15000"
+    },
+    {
+        "mes": "Enero",
+        "producto": "Mouse",
+        "cantidad": "35",
+        "precio_unitario": "250"
+    },
+    {
+        "mes": "Enero",
+        "producto": "Teclado",
+        "cantidad": "20",
+        "precio_unitario": "600"
+    },
+    {
+        "mes": "Febrero",
+        "producto": "Laptop",
+        "cantidad": "15",
+        "precio_unitario": "15000"
+    },
+    {
+        "mes": "Febrero",
+        "producto": "Mouse",
+        "cantidad": "40",
+        "precio_unitario": "250"
+    },
+    {
+        "mes": "Febrero",
+        "producto": "Teclado",
+        "cantidad": "18",
+        "precio_unitario": "600"
+    },
+    {
+        "mes": "Marzo",
+        "producto": "Laptop",
+        "cantidad": "20",
+        "precio_unitario": "15000"
+    },
+    {
+        "mes": "Marzo",
+        "producto": "Mouse",
+        "cantidad": "45",
+        "precio_unitario": "250"
+    },
+    {
+        "mes": "Marzo",
+        "producto": "Teclado",
+        "cantidad": "22",
+        "precio_unitario": "600"
+    },
+    {
+        "mes": "Abril",
+        "producto": "Laptop",
+        "cantidad": "18",
+        "precio_unitario": "15000"
+    },
+    {
+        "mes": "Abril",
+        "producto": "Mouse",
+        "cantidad": "38",
+        "precio_unitario": "250"
+    },
+    {
+        "mes": "Abril",
+        "producto": "Teclado",
+        "cantidad": "25",
+        "precio_unitario": "600"
+    },
+    {
+        "mes": "Mayo",
+        "producto": "Laptop",
+        "cantidad": "25",
+        "precio_unitario": "15000"
+    },
+    {
+        "mes": "Mayo",
+        "producto": "Mouse",
+        "cantidad": "50",
+        "precio_unitario": "250"
+    },
+    {
+        "mes": "Mayo",
+        "producto": "Teclado",
+        "cantidad": "30",
+        "precio_unitario": "600"
+    },
+    {
+        "mes": "Junio",
+        "producto": "Laptop",
+        "cantidad": "22",
+        "precio_unitario": "15000"
+    },
+    {
+        "mes": "Junio",
+        "producto": "Mouse",
+        "cantidad": "48",
+        "precio_unitario": "250"
+    },
+    {
+        "mes": "Junio",
+        "producto": "Teclado",
+        "cantidad": "28",
+        "precio_unitario": "600"
+    }
+]

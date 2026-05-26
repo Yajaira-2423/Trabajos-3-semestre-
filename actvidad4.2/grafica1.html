@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi primera gráfica de representación de datos</title>
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css">
+    <script src="https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js"></script>
+</head>
+<body>
+
+    <h1>Mi primera gráfica de datos</h1>
+    
+    <div class="ct-chart ct-perfect-fourth"></div>
+
+    <script>
+        // Objeto que contiene los datos de la gráfica
+        var datos = {
+            // Etiquetas para el eje X
+            labels: ['Lun', 'Mar', 'Mie', 'Jue', 'Vie'],
+            
+            // Valores para la serie de datos
+            series: [
+                [5, 2, 4, 2, 0] // Estos son los puntos de la línea
+            ]
+        };
+
+        // Instanciamos la gráfica de líneas
+        // '.ct-chart' es el selector del div de arriba
+        // 'datos' es el objeto que definimos arriba
+        new Chartist.Line('.ct-chart', datos);
+    </script>
+
+</body>
+</html>
